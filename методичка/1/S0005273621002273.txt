@@ -1,0 +1,11 @@
+Katerine Chanci, Johnatan Diosa, Marco A. Giraldo, Monica Mesa,
+Physical behavior of KR-12 peptide on solid surfaces and Langmuir-Blodgett lipid films: Complementary approaches to its antimicrobial mode against S. aureus,
+Biochimica et Biophysica Acta (BBA) - Biomembranes,
+Volume 1864, Issue 1,
+2022,
+183779,
+ISSN 0005-2736,
+https://doi.org/10.1016/j.bbamem.2021.183779.
+(https://www.sciencedirect.com/science/article/pii/S0005273621002273)
+Abstract: Biophysical characterization of antimicrobial peptides helps to understand the mechanistic aspects of their action. The physical behavior of the KR-12 antimicrobial peptide (e.g. orientation and changes in secondary structure), was analyzed after interactions with a Staphylococcus aureus membrane model and solid surfaces. We performed antimicrobial tests using Gram-positive S. aureus (ATCC 25923) bacteria. Moreover, Langmuir-Blodgett experiments showed that the synthetic peptide can disturb the lipidic membrane at a concentration lower than the Minimum Inhibitory Concentration, thus confirming that KR-12/lipid interactions are involved. Partially- and fully-deactivated KR-12 hybrid samples were obtained by physisorption and covalent immobilization in chitosan/silica and glyoxal-rich solid supports. The correlation of Langmuir-Blodgett data with the α-helix formation, followed by FTIR-ATR in a frozen-like state, and the antimicrobial activity showed the importance of these interactions and conformation changes on the first step action mode of this peptide. This is the first time that material science (immobilization in solid surfaces assisted by FTIR-ATR analysis in frozen-like state) and physical (Langmuir-Blodgett/Schaefer) approaches are combined for exploring mechanistic aspects of the primary action mode of the KR-12 antimicrobial peptide against S. aureus.
+Keywords: Antimicrobial peptide; Bacterial membrane model; Surface interactions; Langmuir-Blodgett technique; Chitosan-glyoxal-silica surfaces
